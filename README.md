@@ -4,6 +4,12 @@
 The **Motorcycle Rental Company** is a web-based application that enables users to browse, filter, and book motorcycles effortlessly. Administrators can manage motorcycles, view statistics, and handle customer bookings efficiently.
 
 ---
+## 🛠️ Technologies Used
+- **Backend:** PHP
+- **Frontend:** HTML, CSS
+- **Database Management:** phpMyAdmin (MySQL)
+
+---
 
 ## 📌 Features
 
@@ -22,12 +28,6 @@ The **Motorcycle Rental Company** is a web-based application that enables users 
 
 ---
 
-## 🛠️ Technologies Used
-- **Backend:** PHP
-- **Frontend:** HTML, CSS
-- **Database Management:** phpMyAdmin (MySQL)
-
----
 
 ## 📥 Installation Guide
 
